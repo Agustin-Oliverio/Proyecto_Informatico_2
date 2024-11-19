@@ -1,0 +1,15 @@
+¿Qué es GIT? 
+Git es un sistema de control de versiones distribuido que permite gestionar y hacer un seguimiento de los cambios en los archivos de un proyecto.
+
+¿Para qué sirve? 
+Sirve para controlar el historial de cambios en el código fuente, facilitando la colaboración entre desarrolladores, la recuperación de versiones anteriores y la gestión de ramas en el desarrollo de software.
+
+¿Cómo funciona?
+Git registra el historial de cambios en un repositorio, donde los archivos se almacenan en "commits". Los usuarios pueden hacer cambios localmente y luego sincronizarlos con un repositorio centralizado o remoto, como GitHub.
+
+5 comandos de Git:
+1. git init: Crea un nuevo repositorio vacío en el directorio actual.
+2. git clone <url>: Crea una copia local de un repositorio remoto.
+3. git add <archivo>: Añade cambios de un archivo al área de preparación (staging).
+4. git commit -m "mensaje": Guarda los cambios del área de preparación en el historial de commits con un mensaje descriptivo.
+5. git push: Envía los cambios locales a un repositorio remoto.
